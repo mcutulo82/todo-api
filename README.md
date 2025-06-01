@@ -9,4 +9,4 @@ API simples para gerenciamento de tarefas, construída com:
 ## Como executar
 
 ```bash
-docker-compose up --build
+docker compose up --build
