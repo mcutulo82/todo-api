@@ -1,0 +1,23 @@
+# Binários Go
+/main
+*.exe
+*.out
+
+# Diretórios do Go
+vendor/
+bin/
+*.test
+
+# Módulos
+go.sum
+
+# Docker
+pgdata/
+*.env
+
+# VSCode
+.vscode/
+
+# Outros
+*.log
+
